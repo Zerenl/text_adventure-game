@@ -1,0 +1,8 @@
+N
+N
+TAKE
+E
+S
+JUMP
+W
+QUESTS

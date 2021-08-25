@@ -1,0 +1,14 @@
+questS
+N
+FReeze LaKE
+EAST
+jump
+North
+WEAR
+NORTH
+W
+TAKE
+Quests
+S
+freeze lake
+quests

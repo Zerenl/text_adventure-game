@@ -1,0 +1,11 @@
+check
+me
+North
+EAST
+JUMP
+quests
+NORTH
+WEAR MASK
+CHECK
+me
+quit

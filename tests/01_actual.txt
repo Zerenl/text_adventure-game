@@ -1,0 +1,123 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Entrance.
+There is nothing in this room.
+
+>>> #00: Excalibur            - FREEZE the lake by using Shiva's Guard
+#01: Glimmer Cape         - try JUMP to get the cape
+#02: Helm of Iron Will    - TAKE the Helm
+#03: Shiva's Guard        - WEAR this armor
+
+>>> You move to the north, arriving at the Lake.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Lake.
+A beautiful Sword suspend on the surface of lake.
+
+>>> You don't have Shiva's Guard.
+
+>>> You move to the east, arriving at the Forest.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Forest.
+You see a partily hidden and partly visibile cape on the tree.
+
+>>> You got the cape and decide to wearing it, sometimes you become invisible sometimes not.
+
+>>> You move to the north, arriving at the Castle.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Castle.
+You enter this room and a chill ran up you spine, a powerful armor can freeze everything around are putting on a armor stand.
+
+>>> You wearing the Shiva's Guard which you can emits a freezing wave now.
+
+>>> You can't go that way.
+
+>>> You move to the west, arriving at the Garden.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Garden.
+A Helm on the ground and there is a one-way road in the south.
+
+>>> You take the helm and wearing it, nothing happened.
+
+>>> #00: Excalibur            - FREEZE the lake by using Shiva's Guard
+#01: Glimmer Cape         - try JUMP to get the cape [COMPLETED]
+#02: Helm of Iron Will    - TAKE the Helm [COMPLETED]
+#03: Shiva's Guard        - WEAR this armor [COMPLETED]
+
+>>> You move to the south, arriving at the Lake.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Lake.
+A beautiful Sword suspend on the surface of lake.
+
+>>> You walking on the ice and take the sword.
+
+>>> #00: Excalibur            - FREEZE the lake by using Shiva's Guard [COMPLETED]
+#01: Glimmer Cape         - try JUMP to get the cape [COMPLETED]
+#02: Helm of Iron Will    - TAKE the Helm [COMPLETED]
+#03: Shiva's Guard        - WEAR this armor [COMPLETED]
+
+=== All quests complete! Congratulations! ===

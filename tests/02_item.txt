@@ -1,0 +1,3 @@
+Excalibur | SWORD | 2 | 12
+Mask of Madness | MASK | -100 | -100
+Glimmer Cape | CAPE | 0 | 10

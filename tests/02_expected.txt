@@ -1,0 +1,94 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Entrance.
+There is nothing in this room.
+
+>>> Check what? 
+You are an adventurer, with a SKILL of 5 and a WILL of 5.
+You are carrying:
+
+Nothing.
+
+With your items, you have a SKILL level of 5 and a WILL power of 5.
+
+>>> You move to the north, arriving at the Lake.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Lake.
+A beautiful Sword suspend on the surface of lake.
+
+>>> You move to the east, arriving at the Forest.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Forest.
+You see a partily hidden and partly visibile cape on the tree.
+
+>>> You got the cape and decide to wearing it, sometimes you become invisible sometimes not.
+
+>>> #00: Excalibur            - FREEZE the lake by using Shiva's Guard
+#01: Glimmer Cape         - try JUMP to get the cape [COMPLETED]
+#02: Mask of Madness      - you wont's want WEARing it right?
+
+>>> You move to the north, arriving at the Castle.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Castle.
+A Mask in the central of the room
+
+>>> YoU wEAring thE Ma$k, YOu sTaRted Fe#l st$ange An% Every&thing bec#me wired
+
+>>> Check what? 
+You are an adventurer, with a SKILL of 5 and a WILL of 5.
+You are carrying:
+
+Glimmer Cape
+Grants a bonus of 0 to SKILL.
+Grants a bonus of 10 to WILL.
+
+Mask of Madness
+Grants a bonus of -100 to SKILL.
+Grants a bonus of -100 to WILL.
+
+With your items, you have a SKILL level of 0 and a WILL power of 0.
+
+>>> Bye!

@@ -1,0 +1,134 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Entrance.
+There is nothing in this room.
+
+>>> You move to the north, arriving at the Lake.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Lake.
+A beautiful Sword suspend on the surface of lake.
+
+>>> You can't go that way.
+
+>>> You move to the east, arriving at the Forest.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Forest.
+You see a partily hidden and partly visibile cape on the tree.
+
+>>> You move to the north, arriving at the Castle.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Castle.
+You enter this room and a chill ran up you spine, a powerful armor can freeze everything around are putting on a armor stand.
+
+>>> You move to the south, arriving at the Forest.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Forest.
+You see a partily hidden and partly visibile cape on the tree.
+
+>>> You move to the north, arriving at the Castle.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Castle.
+You enter this room and a chill ran up you spine, a powerful armor can freeze everything around are putting on a armor stand.
+
+>>> You move to the west, arriving at the Garden.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Garden.
+A Helm on the ground and there is a one-way road in the south.
+
+>>> You can't go that way.
+
+>>> You move to the south, arriving at the Lake.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Lake.
+A beautiful Sword suspend on the surface of lake.
+
+>>> You can't go that way.
+
+>>> Bye!

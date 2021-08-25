@@ -1,0 +1,11 @@
+N
+N
+E
+N
+S
+N
+W
+W
+S
+N
+QUIT

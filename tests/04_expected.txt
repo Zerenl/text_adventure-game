@@ -1,0 +1,138 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Entrance.
+There is nothing in this room.
+
+>>> You move to the north, arriving at the Lake.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Lake.
+A beautiful Sword suspend on the surface of lake.
+
+>>> You walking on the ice and take the sword.
+
+>>> Check what? 
+You are an adventurer, with a SKILL of 5 and a WILL of 5.
+You are carrying:
+
+Excalibur
+Grants a bonus of 2 to SKILL.
+Grants a bonus of 12 to WILL.
+
+With your items, you have a SKILL level of 7 and a WILL power of 17.
+
+>>> You move to the east, arriving at the Forest.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Forest.
+You see a partily hidden and partly visibile cape on the tree.
+
+>>> You got the cape and decide to wearing it, sometimes you become invisible sometimes not.
+
+>>> You move to the north, arriving at the Castle.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Castle.
+You enter this room and a chill ran up you spine, a powerful armor can freeze everything around are putting on a armor stand.
+
+>>> You wearing the Shiva's Guard which you can emits a freezing wave now.
+
+>>> You move to the west, arriving at the Garden.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Garden.
+A Helm on the ground and there is a one-way road in the south.
+
+>>> You take the helm and wearing it, nothing happened.
+
+>>> You are carrying:
+- A Excalibur
+- A Glimmer Cape
+- A Shiva's Guard
+- A Helm of Iron Will
+
+>>> Check what? 
+Glimmer Cape
+Grants a bonus of 0 to SKILL.
+Grants a bonus of 10 to WILL.
+
+
+>>> Check what? 
+You are an adventurer, with a SKILL of 5 and a WILL of 5.
+You are carrying:
+
+Excalibur
+Grants a bonus of 2 to SKILL.
+Grants a bonus of 12 to WILL.
+
+Glimmer Cape
+Grants a bonus of 0 to SKILL.
+Grants a bonus of 10 to WILL.
+
+Shiva's Guard
+Grants a bonus of 4 to SKILL.
+Grants a bonus of 15 to WILL.
+
+Helm of Iron Will
+Grants a bonus of 5 to SKILL.
+Grants a bonus of 5 to WILL.
+
+With your items, you have a SKILL level of 16 and a WILL power of 47.
+
+>>> Check what? 
+Excalibur
+Grants a bonus of 2 to SKILL.
+Grants a bonus of 12 to WILL.
+
+
+>>> Bye!

@@ -1,0 +1,6 @@
+Excalibur | FREEZE LAKE | FREEZE the lake by using Shiva's Guard | A beautiful Sword suspend on the surface of lake. | just a normal lake | WILL 0 | You don't have Shiva's Guard. | You walking on the ice and take the sword. | Lake
+
+Glimmer Cape | JUMP | try JUMP to get the cape | You see a partily hidden and partly visibile cape on the tree. | There is nothing in this room. | SKILL 5 | You can't fail to get this cape. | You got the cape and decide to wearing it, sometimes you become invisible sometimes not. | Forest
+
+Mask of Madness | WEAR MASK | you wont's want WEARing it right? | A Mask in the central of the room | There is nothing in this room. | WILL 5 | Sadly, the mask doesn't like you | YoU wEAring thE Ma$k, YOu sTaRted Fe#l st$ange An% Every&thing bec#me wired | Castle
+

@@ -1,0 +1,68 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Entrance.
+There is nothing in this room.
+
+>>> You move to the north, arriving at the Lake.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Lake.
+You see a partily hidden and partly visibile cape on the tree.
+
+>>> You got the cape and decide to wearing it, sometimes you become invisible sometimes not.
+
+>>> You have already completed this quest.
+
+>>> You move to the east, arriving at the Forest.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Forest.
+There is nothing in this room.
+
+>>> You move to the west, arriving at the Lake.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Lake.
+There is nothing in this room.
+
+>>> Bye!

@@ -1,0 +1,103 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Entrance.
+There is nothing in this room.
+
+>>> You move to the north, arriving at the Lake.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Lake.
+There is nothing in this room.
+
+>>> You move to the north, arriving at the Garden.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Garden.
+A Helm on the ground and there is a one-way road in the south.
+
+>>> You take the helm and wearing it, nothing happened.
+
+>>> You move to the east, arriving at the Castle.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++---------SS---------+
+You are standing at the Castle.
+There is nothing in this room.
+
+>>> You move to the south, arriving at the Forest.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Forest.
+You see a partily hidden and partly visibile cape on the tree.
+
+>>> You got the cape and decide to wearing it, sometimes you become invisible sometimes not.
+
+>>> You move to the west, arriving at the Lake.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Lake.
+There is nothing in this room.
+
+>>> #00: Glimmer Cape         - try JUMP to get the cape [COMPLETED]
+#01: Helm of Iron Will    - TAKE the Helm [COMPLETED]
+
+=== All quests complete! Congratulations! ===

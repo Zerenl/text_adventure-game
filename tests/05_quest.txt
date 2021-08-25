@@ -1,0 +1,4 @@
+Glimmer Cape | JUMP | try JUMP to get the cape | You see a partily hidden and partly visibile cape on the tree. | There is nothing in this room. | SKILL 0 | You can't fail to get this cape. | You got the cape and decide to wearing it, sometimes you become invisible sometimes not. | Forest
+
+Helm of Iron Will | TAKE | TAKE the Helm | A Helm on the ground and there is a one-way road in the south. | There is a one-way road in the south. | WILL 0 | You will level is lower than requirment. | You take the helm and wearing it, nothing happened. | Garden
+

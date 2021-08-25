@@ -1,0 +1,5 @@
+Entrance > NORTH > Lake
+Lake > EAST > Forest
+Forest > WEST > Lake
+Forest > NORTH > Castle
+Castle > SOUTH > Forest

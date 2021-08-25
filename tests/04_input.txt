@@ -1,0 +1,18 @@
+N
+Freeze lake
+check
+me
+E
+JUMP
+N
+Wear
+W
+take
+inv
+check
+cape
+check
+me
+check
+SWORD
+quit

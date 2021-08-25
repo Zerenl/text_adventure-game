@@ -1,0 +1,8 @@
+Excalibur | FREEZE LAKE | FREEZE the lake by using Shiva's Guard | A beautiful Sword suspend on the surface of lake. | just a normal lake | WILL 20 | You don't have Shiva's Guard. | You walking on the ice and take the sword. | Lake
+
+Glimmer Cape | JUMP | try JUMP to get the cape | You see a partily hidden and partly visibile cape on the tree. | There is nothing in this room. | SKILL 5 | You can't fail to get this cape. | You got the cape and decide to wearing it, sometimes you become invisible sometimes not. | Forest
+
+Helm of Iron Will | TAKE | TAKE the Helm | A Helm on the ground and there is a one-way road in the south. | There is a one-way road in the south. | WILL 10 | You will level is lower than requirment. | You take the helm and wearing it, nothing happened. | Garden
+
+Shiva's Guard | WEAR | WEAR this armor | You enter this room and a chill ran up you spine, a powerful armor can freeze everything around are putting on a armor stand. | There is nothing in this room. | SKILL 5 | You can't touch it because it is freezing. | You wearing the Shiva's Guard which you can emits a freezing wave now. | Castle
+

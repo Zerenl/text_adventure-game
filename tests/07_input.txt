@@ -1,0 +1,6 @@
+N
+JUMP
+JUMP
+E
+W
+quit

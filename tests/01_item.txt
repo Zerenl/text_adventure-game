@@ -1,0 +1,4 @@
+Excalibur | SWORD | 2 | 12
+Helm of Iron Will | HELM | 5 | 5
+Shiva's Guard | ARMOR | 4 | 15
+Glimmer Cape | CAPE | 0 | 10

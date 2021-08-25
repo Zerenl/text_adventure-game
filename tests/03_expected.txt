@@ -1,0 +1,90 @@
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Entrance.
+There is nothing in this room.
+
+>>> 
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Entrance.
+There is nothing in this room.
+
+>>> HELP       - Shows some available commands.
+LOOK or L  - Lets you see the map/room again.
+QUESTS     - Lists all your active and completed quests.
+INV        - Lists all the items in your inventory.
+CHECK      - Lets you see an item (or yourself) in more detail.
+NORTH or N - Moves you to the north.
+SOUTH or S - Moves you to the south.
+EAST or E  - Moves you to the east.
+WEST or W  - Moves you to the west.
+QUIT       - Ends the adventure.
+
+>>> You can't do that.
+
+>>> You can't go that way.
+
+>>> You move to the north, arriving at the Lake.
+
++--------------------+
+|                    |
+|                    |
+|                    |
+|                    |
+|                    E
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Lake.
+A beautiful Sword suspend on the surface of lake.
+
+>>> You move to the east, arriving at the Forest.
+
++---------NN---------+
+|                    |
+|                    |
+|                    |
+|                    |
+W                    |
+|                    |
+|                    |
+|                    |
+|                    |
++--------------------+
+You are standing at the Forest.
+You see a partily hidden and partly visibile cape on the tree.
+
+>>> #00: Excalibur            - FREEZE the lake by using Shiva's Guard
+#01: Glimmer Cape         - try JUMP to get the cape
+#02: Helm of Iron Will    - TAKE the Helm
+#03: Shiva's Guard        - WEAR this armor
+
+>>> You can't do that.
+
+>>> You got the cape and decide to wearing it, sometimes you become invisible sometimes not.
+
+>>> You are carrying:
+- A Glimmer Cape
+
+>>> Bye!
